@@ -1,0 +1,85 @@
+## 1.1 Latar Belakang
+
+Latar belakang game 2D melibatkan sejarah dan evolusi genre ini dalam industri permainan video. Game 2D merujuk pada permainan yang menggunakan grafika dua dimensi, sebaliknya dengan game 3D yang 
+menggunakan grafika tiga dimensi. Meskipun mungkin terlihat lebih sederhana dalam hal presentasi visual, game 2D memiliki daya tariknya sendiri dan telah menjadi bagian integral dari sejarah permainan video.
+Game Pong adalah salah satu yang paling awal dan paling sederhana dalam sejarah permainan video. Latar belakangnya dapat ditelusuri ke era awal industri permainan, yang pada saat itu teknologi 
+permainan video baru dimulai berkembang. Dengan gameplay mirip seperti olahraga tenis meja, game ini cocok untuk bernostalgia para pemain atari pada zamannya karena bisa dikatakan pertama kali game bergenre 
+seperti ini hadir dalam game konsol atari. Selain itu game ini cocok untuk mengobati rasa bosan dikala waktu senggang dikarenakan gameplay nya yang cukup ringan dan bisa dimainkan tanpa internet.
+
+
+
+## 1.2. Deksripsi Teknologi Informasi
+
+Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro menggunakan teknologi informasi untuk menyediakan pengalaman permainan yang sederhana dan menghibur. Berikut adalah beberapa aspek teknologi informasi yang terlibat dalam implementasi game Pong 2D:
+
+**1. Grafika 2D:**
+   - **Pixel Rendering:** Grafika 2D Pong diimplementasikan dengan merender piksel-piksel pada layar. Setiap objek dalam permainan, seperti paddles dan bola, direpresentasikan oleh sejumlah piksel.
+   - **Sprite Rendering:** Paddles dan bola dapat dianggap sebagai sprite, objek grafis yang dapat bergerak dan diubah secara independen di atas layar. Teknologi ini memungkinkan pergerakan dan interaksi objek yang mulus.
+
+**2. Input Pengguna:**
+   - **Deteksi Tombol:** Game ini menggunakan teknologi untuk mendeteksi input pengguna, seperti tombol atau kontroler. Dalam Pong, pemain biasanya menggerakkan paddles mereka menggunakan tombol atau kontroler yang sesuai.
+
+**3. Fisika Dasar:**
+   - **Deteksi Tabrakan:** Sistem deteksi tabrakan digunakan untuk memeriksa apakah bola bertabrakan dengan paddles atau tepi layar. Ini memastikan respons yang tepat terhadap peristiwa dalam permainan.
+   - **Gerakan dan Kecepatan:** Bola dan paddles memiliki parameter kecepatan dan arah yang diperbarui berdasarkan aturan fisika dasar. Ini memastikan bahwa permainan terasa realistis meskipun sederhana.
+
+**4. Kekuatan Perhitungan:**
+   - **Perhitungan Posisi dan Animasi:** Sistem perhitungan digunakan untuk menghitung posisi objek pada setiap frame dan menyinkronkannya dengan framerate permainan. Ini memberikan ilusi gerakan dan animasi yang mulus.
+   - **Perhitungan Skor:** Kekuatan perhitungan digunakan untuk melacak dan memperbarui skor pemain saat bola melewati paddle lawan.
+
+**5. Pengelolaan Suara:**
+   - **Audio Feedback:** Meskipun Pong sederhana, teknologi informasi digunakan untuk menyediakan efek suara yang sesuai, seperti suara bola yang memantul atau suara saat pemain mencetak gol.
+
+
+## 1.3. Branding
+
+bla bla bla
+
+## 2. User Story
+
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
+
+## 3. Struktur Data
+
+Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+```mermaid
+erDiagram
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
+```
+
+## 4. Arsitektur Sistem
+
+Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+
+## 5. Teknologi, Library, dan Framework
+
+bla bla bla
+
+## 6. Desain User Experience dan User Interface
+
+Bisa load image 
+![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+
+## 7. Demonstrasi Video
+
+Link youtube nya
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini

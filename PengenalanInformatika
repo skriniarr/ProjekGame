@@ -1,16 +1,16 @@
 ## 1.1 Latar Belakang
 
 Latar belakang game 2D melibatkan sejarah dan evolusi genre ini dalam industri permainan video. Game 2D merujuk pada permainan yang menggunakan grafika dua dimensi, sebaliknya dengan game 3D yang 
-menggunakan grafika tiga dimensi. Meskipun mungkin terlihat lebih sederhana dalam hal presentasi visual, game 2D memiliki daya tariknya sendiri dan telah menjadi bagian integral dari sejarah permainan video.
-Game Pong adalah salah satu yang paling awal dan paling sederhana dalam sejarah permainan video. Latar belakangnya dapat ditelusuri ke era awal industri permainan, yang pada saat itu teknologi 
-permainan video baru dimulai berkembang. Dengan gameplay mirip seperti olahraga tenis meja, game ini cocok untuk bernostalgia para pemain atari pada zamannya karena bisa dikatakan pertama kali game bergenre 
-seperti ini hadir dalam game konsol atari. Selain itu game ini cocok untuk mengobati rasa bosan dikala waktu senggang dikarenakan gameplay nya yang cukup ringan dan bisa dimainkan tanpa internet.
-
+menggunakan grafika tiga dimensi. Meskipun mungkin terlihat lebih sederhana dalam hal presentasi visual, game 2D memiliki daya tariknya sendiri dan telah menjadi bagian integral dari sejarah permainan video. 
+Latar belakangnya dapat ditelusuri ke era awal industri permainan, yang pada saat itu teknologi permainan video baru dimulai berkembang. Dengan gameplay mirip seperti olahraga tenis meja, game ini cocok untuk bernostalgia 
+para pemain atari pada zamannya karena bisa dikatakan pertama kali game bergenre seperti ini hadir dalam game konsol atari. Selain itu game ini cocok untuk mengobati rasa bosan dikala waktu senggang dikarenakan gameplay nya 
+yang cukup ringan dan bisa dimainkan tanpa internet. Game ini dinamakan Takkiyu diambil dari bahasa Jepamh yang arti nya tenis meja, seusai dengan gameplay dalam game ini yang mirip dengan olahraga tersebut.
 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro menggunakan teknologi informasi untuk menyediakan pengalaman permainan yang sederhana dan menghibur. Berikut adalah beberapa aspek teknologi informasi yang terlibat dalam implementasi game Pong 2D:
+Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro, game ono dibuat menggunakan Unity dan menggunakan bahasa java. Takkiyu teknologi informasi untuk menyediakan pengalaman permainan yang sederhana dan menghibur. 
+Berikut adalah beberapa aspek teknologi informasi yang terlibat dalam implementasi game Takkiyu:
 
 **1. Grafika 2D:**
    - **Pixel Rendering:** Grafika 2D Pong diimplementasikan dengan merender piksel-piksel pada layar. Setiap objek dalam permainan, seperti paddles dan bola, direpresentasikan oleh sejumlah piksel.
@@ -28,12 +28,26 @@ Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro menggunakan tekn
    - **Perhitungan Skor:** Kekuatan perhitungan digunakan untuk melacak dan memperbarui skor pemain saat bola melewati paddle lawan.
 
 **5. Pengelolaan Suara:**
-   - **Audio Feedback:** Meskipun Pong sederhana, teknologi informasi digunakan untuk menyediakan efek suara yang sesuai, seperti suara bola yang memantul atau suara saat pemain mencetak gol.
+   - **Audio Feedback:** Meskipun Takkiyu sederhana, teknologi informasi digunakan untuk menyediakan efek suara yang sesuai, seperti suara bola yang memantul atau suara saat pemain mencetak point
 
 
 ## 1.3. Branding
 
-bla bla bla
+Merk: Takkiyu
+Tagline: Let's Fun Let's Play!
+Campaign: Bagaimana membuat aplikasi yang membuat penggunanya senang berbagi imajinasi, fakta, maupun inspirasi secara bertanggung jawab
+Target user:
+-Usia 10+
+-Seorang yang senang berbagi inspirasi dan informasi baru
+-Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+-Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+-Seorang yang ingin media cuitan alternatif yang lebih sehat
+User experience theme:
+Mudah
+Sederhana
+Menyenangkan
+Warna: ala suasana pagi / light blue / light yellow
+Inspirasi desain:
 
 ## 2. User Story
 

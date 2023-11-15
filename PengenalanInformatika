@@ -9,7 +9,7 @@ yang cukup ringan dan bisa dimainkan tanpa internet. Game ini dinamakan Takkiyu 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro, game ono dibuat menggunakan Unity dan menggunakan bahasa java. Takkiyu teknologi informasi untuk menyediakan pengalaman permainan yang sederhana dan menghibur. 
+Takkiyu merupakan game 2D bergenre arcade yang bertemakan retro, game ini dibuat menggunakan Unity dan menggunakan bahasa java. Takkiyu menyediakan tekbologi informasi untuk pengalaman permainan yang sederhana dan menghibur. 
 Berikut adalah beberapa aspek teknologi informasi yang terlibat dalam implementasi game Takkiyu:
 
 **1. Grafika 2D:**
@@ -33,20 +33,20 @@ Berikut adalah beberapa aspek teknologi informasi yang terlibat dalam implementa
 
 ## 1.3. Branding
 
-Merk: Takkiyu
-Tagline: Let's Fun Let's Play!
-Campaign: Bagaimana membuat aplikasi yang membuat penggunanya senang berbagi imajinasi, fakta, maupun inspirasi secara bertanggung jawab
-Target user:
--Usia 10+
--Seorang yang senang berbagi inspirasi dan informasi baru
--Seorang yang senang mengeksplorasi inspirasi dan informasi baru
--Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
--Seorang yang ingin media cuitan alternatif yang lebih sehat
-User experience theme:
-Mudah
-Sederhana
-Menyenangkan
-Warna: ala suasana pagi / light blue / light yellow
+-   Merk      : Takkiyu
+-   Tagline   : Bounce The Ball!
+-Campaign   : Memperkenalkan game di era 1980 an kepada generasi muda
+-Target user:
+   -Usia 10+
+   -Seorang yang senang dengan game atari
+   -Seorang yang ingin menghilangkan rasa bosan nya
+   -Orang yang senang dengan game retro
+   -Orang yang ingin bernostalgia pada game di era 80an
+-User experience theme:
+   -Santai
+   -Sederhana
+   -Gameplay ringan
+   -Tema: Pixel retro vintage
 Inspirasi desain:
 
 ## 2. User Story
@@ -56,7 +56,7 @@ bla | bla | bla | bla
 bla | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
-
+ 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
 ```mermaid
